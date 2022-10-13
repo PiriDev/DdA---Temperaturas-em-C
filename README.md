@@ -1,5 +1,7 @@
 <h1 align="center">🧊 Conversor de Temperatura 🔥</h1>
 
+<h1 align="center"> <img src="https://img.shields.io/badge/Status-Concluído_✅-%2346db6e?style=for-the-badge&logo=gear)"> </h1>
+
 <h2>➛ Este programa utiliza as seguintes tecnologias:</h2>
 
 ![Badge](https://img.shields.io/badge/Linguagem_Principal-C_/_C++-%237159c1?style=for-the-badge&logo=c)
